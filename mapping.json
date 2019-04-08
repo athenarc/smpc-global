@@ -1,0 +1,16 @@
+{
+    "Ethnicity": {
+        "white": 0,
+        "bangladeshi": 1,
+        "pakistani": 2,
+        "black": 3,
+        "indian": 4,
+        "other": 5,
+        "other asian": 6,
+        "chinese": 7
+    },
+    "Gender": {
+        "male": 0,
+        "female": 1
+    }
+}
