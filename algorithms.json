@@ -1,32 +1,35 @@
 [{
-		"2d_mixed_histogram": {
-			"attributes": ["categorical", "numerical"],
-			"scale": "mix_histogram"
-		}
-	},
-	{
-		"1d_categorical_histogram": {
-			"attributes": ["categorical"],
-			"scale": "naive_categorical1d"
-		}
-	},
-	{
-		"1d_numerical_histogram": {
-			"attributes": ["numerical"],
-			"scale": "naive_numerical1d"
-		}
-	},
-	{
-		"2d_numerical_histogram": {
-			"attributes": ["numerical", "numerical"],
-			"scale": "multi_numerical_histogram"
-		}
-	},
-	{
-		"2d_categorical_histogram": {
-			"attributes": ["categorical", "categorical"],
-			"scale": "multi_categorical_histogram"
-		}
+		"histograms": [{
+				"2d_mixed_histogram": {
+					"attributes": ["categorical", "numerical"],
+					"scale": "mix_histogram"
+				}
+			},
+			{
+				"1d_categorical_histogram": {
+					"attributes": ["categorical"],
+					"scale": "naive_categorical1d"
+				}
+			},
+			{
+				"1d_numerical_histogram": {
+					"attributes": ["numerical"],
+					"scale": "naive_numerical1d"
+				}
+			},
+			{
+				"2d_numerical_histogram": {
+					"attributes": ["numerical", "numerical"],
+					"scale": "multi_numerical_histogram"
+				}
+			},
+			{
+				"2d_categorical_histogram": {
+					"attributes": ["categorical", "categorical"],
+					"scale": "multi_categorical_histogram"
+				}
+			}
+		]
 	},
 	{
 		"secure_aggregation": {
