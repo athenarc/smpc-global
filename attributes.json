@@ -63,10 +63,6 @@
 		"type": "numerical"
 	},
 	{
-		"name": "BMI (kg/msq)",
-		"type": "numerical"
-	},
-	{
 		"name": "BMI (kg/m²)",
 		"type": "numerical"
 	},
@@ -75,47 +71,7 @@
 		"type": "numerical"
 	},
 	{
-		"name": "BSA (msq)",
-		"type": "numerical"
-	},
-	{
-		"name": "CO (L/min)",
-		"type": "numerical"
-	},
-	{
-		"name": "Central PP (mmHg)",
-		"type": "numerical"
-	},
-	{
-		"name": "DBP (mmHg)",
-		"type": "numerical"
-	},
-	{
-		"name": "LVEF (ratio)",
-		"type": "numerical"
-	},
-	{
-		"name": "MAP",
-		"type": "numerical"
-	},
-	{
-		"name": "PAP (mmHg)",
-		"type": "numerical"
-	},
-	{
-		"name": "PP (mmHg)",
-		"type": "numerical"
-	},
-	{
-		"name": "RVEF (ratio)",
-		"type": "numerical"
-	},
-	{
-		"name": "SBP (mmHg)",
-		"type": "numerical"
-	},
-	{
-		"name": "SVR (mmHg/L/min)",
+		"name": "BSA (m²)",
 		"type": "numerical"
 	}
 ]
