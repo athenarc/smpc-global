@@ -63,15 +63,7 @@
 		"type": "numerical"
 	},
 	{
-		"name": "BMI (kg/m²)",
-		"type": "numerical"
-	},
-	{
 		"name": "BSA",
-		"type": "numerical"
-	},
-	{
-		"name": "BSA (m²)",
 		"type": "numerical"
 	}
 ]
