@@ -13,7 +13,7 @@
 	},
 	{
 		"name": "1d_numerical_histogram",
-		"title": "1D Numberical Histogram",
+		"title": "1D Numerical Histogram",
 		"attributes": ["numerical"],
 		"scale": "naive_numerical1d"
 	},
