@@ -1,0 +1,67 @@
+[
+  {
+  	"mesh": "G08.686.810",
+  	"name": "Sex",
+  	"type": "categorical"
+  },
+  {
+  	"mesh": "M01.686.754",
+  	"name": "Ethnic Groups",
+  	"type": "categorical"
+  },
+  {
+  	"mesh": "M01.060",
+  	"name": "Age Groups",
+  	"type": "numerical"
+  },
+  {
+  	"mesh": "E01.370.600.115.100.160.100",
+  	"name": "Body Height",
+  	"type": "numerical"
+  },
+  {
+  	"mesh": "E01.370.600.115.100.160.120",
+  	"name": "Body Weight",
+  	"type": "numerical"
+  },
+  {
+  	"mesh": "E01.370.600.875.249",
+  	"name": "Blood Pressure",
+  	"type": "numerical"
+  },
+  {
+  	"mesh": "G09.330.380.500",
+  	"name": "Heart Rate",
+  	"type": "numerical"
+  },
+  {
+  	"mesh": "G09.330.380.249",
+  	"name": "Cardiac Volume",
+  	"type": "numerical"
+  },
+  {
+  	"mesh": "G09.330.380.124.882",
+  	"name": "Stroke Volume",
+  	"type": "numerical"
+  },
+  {
+  	"mesh": "N06.850.505.200.100.175",
+  	"name": "Body Mass Index",
+  	"type": "numerical"
+  },
+  {
+  	"mesh": "E01.370.600.115.100.231",
+  	"name": "Body Surface Area",
+  	"type": "numerical"
+  },
+  {
+  	"mesh": "E01.370.600.875.249",
+  	"name": "Blood Pressure",
+  	"type": "numerical"
+  },
+  {
+  	"mesh": "E05.318.740.600.800.715",
+  	"name": "Risk Assessment",
+  	"type": "categorical"
+  }
+]
