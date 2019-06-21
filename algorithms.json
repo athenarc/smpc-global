@@ -1,11 +1,5 @@
 [
 	{
-		"name": "2d_mixed_histogram",
-		"title": "2D Mixed Histogram",
-		"attributes": ["categorical", "numerical"],
-		"scale": "mix_histogram"
-	},
-	{
 		"name": "1d_categorical_histogram",
 		"title": "1D Categorical Histogram",
 		"attributes": ["categorical"],
