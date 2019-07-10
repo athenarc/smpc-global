@@ -3,34 +3,34 @@
 		"name": "1d_categorical_histogram",
 		"title": "1D Categorical Histogram",
 		"attributes": ["categorical"],
-		"scale": "naive_categorical1d",
+		"template": "1d_categorical_histogram",
 		"type": "histogram"
 	},
 	{
 		"name": "1d_numerical_histogram",
 		"title": "1D Numerical Histogram",
 		"attributes": ["numerical"],
-		"scale": "naive_numerical1d",
+		"template": "1d_numerical_histogram",
 		"type": "histogram"
 	},
 	{
 		"name": "2d_numerical_histogram",
 		"title": "2D Numerical Histogram",
 		"attributes": ["numerical", "numerical"],
-		"scale": "multi_numerical_histogram",
+		"template": "2d_numerical_histogram",
 		"type": "histogram"
 	}, {
 		"name": "2d_categorical_histogram",
 		"title": "2D Categorical Histogram",
 		"attributes": ["categorical", "categorical"],
-		"scale": "multi_categorical_histogram",
+		"template": "2d_categorical_histogram",
 		"type": "histogram"
 	},
 	{
 		"name": "secure_aggregation",
 		"title": "Aggregation",
 		"attributes": ["numerical"],
-		"scale": "",
+		"template": "secure_aggregation",
 		"type": "aggregation"
 	}
 ]
