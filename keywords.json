@@ -1,207 +1,15 @@
 [
     {
-        "id": "Z01.542.315",
-        "code": "D005858",
-        "parentCategoryId": "Z01.542",
-        "name": "Germany"
+        "id": "N01.824.308.500",
+        "code": "D017533",
+        "parentCategoryId": "N01.824.308",
+        "name": "Marital Status"
     },
     {
-        "id": "C08.381.677",
-        "code": "D011014",
-        "parentCategoryId": "C08.381",
-        "name": "Pneumonia"
-    },
-    {
-        "id": "C13.351.968.419.780.750.500",
-        "code": "D007676",
-        "parentCategoryId": "C13.351.968.419.780.750",
-        "name": "Kidney Failure, Chronic"
-    },
-    {
-        "id": "C04.588.274.623.160",
-        "code": "D006528",
-        "parentCategoryId": "C04.588.274.623",
-        "name": "Carcinoma, Hepatocellular"
-    },
-    {
-        "id": "C23.550.073.325",
-        "code": "D005117",
-        "parentCategoryId": "C23.550.073",
-        "name": "Cardiac Complexes, Premature"
-    },
-    {
-        "id": "M01.060.116.100",
-        "code": "D000368",
-        "parentCategoryId": "M01.060.116",
-        "name": "Aged"
-    },
-    {
-        "id": "C14.907.585.187.150",
-        "code": "D000789",
-        "parentCategoryId": "C14.907.585.187",
-        "name": "Angina, Unstable"
-    },
-    {
-        "id": "C04.557.665.560.615",
-        "code": "D009508",
-        "parentCategoryId": "C04.557.665.560",
-        "name": "Nevus, Pigmented"
-    },
-    {
-        "id": "C23.550.288",
-        "code": "D004194",
-        "parentCategoryId": "C23.550",
-        "name": "Disease"
-    },
-    {
-        "id": "Z01.542.883",
-        "code": "D013557",
-        "parentCategoryId": "Z01.542",
-        "name": "Switzerland"
-    },
-    {
-        "id": "C02.782.815",
-        "code": "D012192",
-        "parentCategoryId": "C02.782",
-        "name": "Retroviridae Infections"
-    },
-    {
-        "id": "D20.215.894.691",
-        "code": "D014121",
-        "parentCategoryId": "D20.215.894",
-        "name": "Toxoids"
-    },
-    {
-        "id": "D09.698",
-        "code": "D011134",
-        "parentCategoryId": "D09",
-        "name": "Polysaccharides"
-    },
-    {
-        "id": "C23.888.852.079",
-        "code": "D000860",
-        "parentCategoryId": "C23.888.852",
-        "name": "Hypoxia"
-    },
-    {
-        "id": "C13.703.039.093",
-        "code": "D000027",
-        "parentCategoryId": "C13.703.039",
-        "name": "Abortion, Incomplete"
-    },
-    {
-        "id": "C13.703",
-        "code": "D011248",
-        "parentCategoryId": "C13",
-        "name": "Pregnancy Complications"
-    },
-    {
-        "id": "C10.228.140.631.750",
-        "code": "D011559",
-        "parentCategoryId": "C10.228.140.631",
-        "name": "Pseudotumor Cerebri"
-    },
-    {
-        "id": "C04.557.665.560",
-        "code": "D009506",
-        "parentCategoryId": "C04.557.665",
-        "name": "Nevus"
-    },
-    {
-        "id": "Z01.542.286",
-        "code": "D005602",
-        "parentCategoryId": "Z01.542",
-        "name": "France"
-    },
-    {
-        "id": "Z01.542.363.914",
-        "code": "D014852",
-        "parentCategoryId": "Z01.542.363",
-        "name": "Wales"
-    },
-    {
-        "id": "C14.907.489",
-        "code": "D006973",
-        "parentCategoryId": "C14.907",
-        "name": "Hypertension"
-    },
-    {
-        "id": "D20.215.894",
-        "code": "D014612",
-        "parentCategoryId": "D20.215",
-        "name": "Vaccines"
-    },
-    {
-        "id": "C14.280",
-        "code": "D006331",
-        "parentCategoryId": "C14",
-        "name": "Heart Diseases"
-    },
-    {
-        "id": "M01.390",
-        "code": "D008571",
-        "parentCategoryId": "M01",
-        "name": "Men"
-    },
-    {
-        "id": "C14.280.383",
-        "code": "D006323",
-        "parentCategoryId": "C14.280",
-        "name": "Heart Arrest"
-    },
-    {
-        "id": "D01.268.150.150",
-        "code": "D002606",
-        "parentCategoryId": "D01.268.150",
-        "name": "Charcoal"
-    },
-    {
-        "id": "C18.452.394.750",
-        "code": "D003920",
-        "parentCategoryId": "C18.452.394",
-        "name": "Diabetes Mellitus"
-    },
-    {
-        "id": "M01.060.116",
-        "code": "D000328",
-        "parentCategoryId": "M01.060",
-        "name": "Adult"
-    },
-    {
-        "id": "D20.215.894.691.263",
-        "code": "D004168",
-        "parentCategoryId": "D20.215.894.691",
-        "name": "Diphtheria Toxoid"
-    },
-    {
-        "id": "C10.228.140.631.500",
-        "code": "D020343",
-        "parentCategoryId": "C10.228.140.631",
-        "name": "Hypertensive Encephalopathy"
-    },
-    {
-        "id": "C14.907.137.126",
-        "code": "D001161",
-        "parentCategoryId": "C14.907.137",
-        "name": "Arteriosclerosis"
-    },
-    {
-        "id": "C10.597.613.750",
-        "code": "D013035",
-        "parentCategoryId": "C10.597.613",
-        "name": "Spasm"
-    },
-    {
-        "id": "C23.550.891",
-        "code": "D014456",
-        "parentCategoryId": "C23.550",
-        "name": "Ulcer"
-    },
-    {
-        "id": "D23.050",
-        "code": "D000941",
-        "parentCategoryId": "D23",
-        "name": "Antigens"
+        "id": "E04.950.774.860.625",
+        "code": "D011468",
+        "parentCategoryId": "E04.950.774.860",
+        "name": "Prostatectomy"
     },
     {
         "id": "C14.280.434",
@@ -210,238 +18,22 @@
         "name": "Heart Failure"
     },
     {
-        "id": "C23.888.119.344",
-        "code": "D005334",
-        "parentCategoryId": "C23.888.119",
-        "name": "Fever"
+        "id": "E04.680.101.110",
+        "code": "D019643",
+        "parentCategoryId": "E04.680.101",
+        "name": "Arthroplasty, Replacement"
     },
     {
-        "id": "C06.552.494",
-        "code": "D006975",
-        "parentCategoryId": "C06.552",
-        "name": "Hypertension, Portal"
+        "id": "Z01.542.286",
+        "code": "D005602",
+        "parentCategoryId": "Z01.542",
+        "name": "France"
     },
     {
-        "id": "C13.703.039",
-        "code": "D000022",
-        "parentCategoryId": "C13.703",
-        "name": "Abortion, Spontaneous"
-    },
-    {
-        "id": "C13.351.968.419",
-        "code": "D007674",
-        "parentCategoryId": "C13.351.968",
-        "name": "Kidney Diseases"
-    },
-    {
-        "id": "C13.703.395.124",
-        "code": "D004461",
-        "parentCategoryId": "C13.703.395",
-        "name": "Eclampsia"
-    },
-    {
-        "id": "M01.060.116.630",
-        "code": "D008875",
-        "parentCategoryId": "M01.060.116",
-        "name": "Middle Aged"
-    },
-    {
-        "id": "C14.907.253.560.350.500",
-        "code": "D015140",
-        "parentCategoryId": "C14.907.253.560.350",
-        "name": "Dementia, Vascular"
-    },
-    {
-        "id": "C10.597.742",
-        "code": "D012640",
-        "parentCategoryId": "C10.597",
-        "name": "Seizures"
-    },
-    {
-        "id": "C17.800.893.592",
-        "code": "D007871",
-        "parentCategoryId": "C17.800.893",
-        "name": "Leg Ulcer"
-    },
-    {
-        "id": "C19.246.099.875",
-        "code": "D003928",
-        "parentCategoryId": "C19.246.099",
-        "name": "Diabetic Nephropathies"
-    },
-    {
-        "id": "M01.975",
-        "code": "D014930",
+        "id": "M01.390",
+        "code": "D008571",
         "parentCategoryId": "M01",
-        "name": "Women"
-    },
-    {
-        "id": "N01.224.361.500.862",
-        "code": "D017805",
-        "parentCategoryId": "N01.224.361.500",
-        "name": "Widowhood"
-    },
-    {
-        "id": "M01.060.057",
-        "code": "D000293",
-        "parentCategoryId": "M01.060",
-        "name": "Adolescent"
-    },
-    {
-        "id": "C17.800.321.250",
-        "code": "D016523",
-        "parentCategoryId": "C17.800.321",
-        "name": "Foot Ulcer"
-    },
-    {
-        "id": "C19.246.099",
-        "code": "D048909",
-        "parentCategoryId": "C19.246",
-        "name": "Diabetes Complications"
-    },
-    {
-        "id": "C18.654.726.500",
-        "code": "D009765",
-        "parentCategoryId": "C18.654.726",
-        "name": "Obesity"
-    },
-    {
-        "id": "Z01.542.363.766",
-        "code": "D012606",
-        "parentCategoryId": "Z01.542.363",
-        "name": "Scotland"
-    },
-    {
-        "id": "C20.683.515.800",
-        "code": "D055501",
-        "parentCategoryId": "C20.683.515",
-        "name": "Macrophage Activation Syndrome"
-    },
-    {
-        "id": "M01.643.470",
-        "code": "D007297",
-        "parentCategoryId": "M01.643",
-        "name": "Inpatients"
-    },
-    {
-        "id": "C23.888.144.699",
-        "code": "D050177",
-        "parentCategoryId": "C23.888.144",
-        "name": "Overweight"
-    },
-    {
-        "id": "C23.550.717.427",
-        "code": "D005734",
-        "parentCategoryId": "C23.550.717",
-        "name": "Gangrene"
-    },
-    {
-        "id": "D06.472.334.851.968.984",
-        "code": "D013739",
-        "parentCategoryId": "D06.472.334.851.968",
-        "name": "Testosterone"
-    },
-    {
-        "id": "C14.907.514",
-        "code": "D007022",
-        "parentCategoryId": "C14.907",
-        "name": "Hypotension"
-    },
-    {
-        "id": "C14.280.067.845",
-        "code": "D013610",
-        "parentCategoryId": "C14.280.067",
-        "name": "Tachycardia"
-    },
-    {
-        "id": "D12.776.124.486.157",
-        "code": "D002097",
-        "parentCategoryId": "D12.776.124.486",
-        "name": "C-Reactive Protein"
-    },
-    {
-        "id": "N01.224.361.500",
-        "code": "D017533",
-        "parentCategoryId": "N01.224.361",
-        "name": "Marital Status"
-    },
-    {
-        "id": "C13.703.395.249",
-        "code": "D011225",
-        "parentCategoryId": "C13.703.395",
-        "name": "Pre-Eclampsia"
-    },
-    {
-        "id": "C14.907.137.126.669",
-        "code": "D007383",
-        "parentCategoryId": "C14.907.137.126",
-        "name": "Intermittent Claudication"
-    },
-    {
-        "id": "C13.351.968.419.331.490",
-        "code": "D006978",
-        "parentCategoryId": "C13.351.968.419.331",
-        "name": "Hypertension, Renovascular"
-    },
-    {
-        "id": "C10.597.613.500",
-        "code": "D009120",
-        "parentCategoryId": "C10.597.613",
-        "name": "Muscle Cramp"
-    },
-    {
-        "id": "C23.550.073.198",
-        "code": "D001281",
-        "parentCategoryId": "C23.550.073",
-        "name": "Atrial Fibrillation"
-    },
-    {
-        "id": "C23.550.470",
-        "code": "D007249",
-        "parentCategoryId": "C23.550",
-        "name": "Inflammation"
-    },
-    {
-        "id": "C10.597.606.762.300",
-        "code": "D006212",
-        "parentCategoryId": "C10.597.606.762",
-        "name": "Hallucinations"
-    },
-    {
-        "id": "C23.888.144.699.500.500",
-        "code": "D009767",
-        "parentCategoryId": "C23.888.144.699.500",
-        "name": "Obesity, Morbid"
-    },
-    {
-        "id": "C14.907.585.250.260",
-        "code": "D003324",
-        "parentCategoryId": "C14.907.585.250",
-        "name": "Coronary Artery Disease"
-    },
-    {
-        "id": "C12.777.419.780.750",
-        "code": "D051436",
-        "parentCategoryId": "C12.777.419.780",
-        "name": "Renal Insufficiency, Chronic"
-    },
-    {
-        "id": "C08.730.382.380",
-        "code": "D007877",
-        "parentCategoryId": "C08.730.382",
-        "name": "Legionnaires' Disease"
-    },
-    {
-        "id": "C23.550.073.300",
-        "code": "D001919",
-        "parentCategoryId": "C23.550.073",
-        "name": "Bradycardia"
-    },
-    {
-        "id": "C14.907.489.815",
-        "code": "D058437",
-        "parentCategoryId": "C14.907.489",
-        "name": "Hypertensive Retinopathy"
+        "name": "Men"
     },
     {
         "id": "M01.686.754.100",
@@ -450,88 +42,124 @@
         "name": "African Americans"
     },
     {
-        "id": "M01.686.508.200",
-        "code": "D044466",
-        "parentCategoryId": "M01.686.508",
-        "name": "Asian Continental Ancestry Group"
+        "id": "B01.050.150.900.649.473.450",
+        "code": "D008971",
+        "parentCategoryId": "B01.050.150.900.649.473",
+        "name": "Moles"
     },
     {
-        "id": "Z01.542.489",
-        "code": "D007558",
-        "parentCategoryId": "Z01.542",
-        "name": "Italy"
+        "id": "C10.228.140.631.750",
+        "code": "D011559",
+        "parentCategoryId": "C10.228.140.631",
+        "name": "Pseudotumor Cerebri"
     },
     {
-        "id": "M01.060.116.100.080",
-        "code": "D000369",
-        "parentCategoryId": "M01.060.116.100",
-        "name": "Aged, 80 and over"
+        "id": "G07.100.100.160.120.699.500.500",
+        "code": "D009767",
+        "parentCategoryId": "G07.100.100.160.120.699.500",
+        "name": "Obesity, Morbid"
     },
     {
-        "id": "N04.590.233.727.210.125",
-        "code": "D010351",
-        "parentCategoryId": "N04.590.233.727.210",
-        "name": "Patient Discharge"
+        "id": "E04.270.856",
+        "code": "D013965",
+        "parentCategoryId": "E04.270",
+        "name": "Thyroidectomy"
     },
     {
-        "id": "C14.907.489.480",
-        "code": "D046110",
-        "parentCategoryId": "C14.907.489",
-        "name": "Hypertension, Pregnancy-Induced"
+        "id": "D20.215.894.691",
+        "code": "D014121",
+        "parentCategoryId": "D20.215.894",
+        "name": "Toxoids"
     },
     {
-        "id": "D01.268.956.875",
-        "code": "D013667",
-        "parentCategoryId": "D01.268.956",
-        "name": "Technetium"
+        "id": "M01.060.116",
+        "code": "D000328",
+        "parentCategoryId": "M01.060",
+        "name": "Adult"
     },
     {
-        "id": "Z01.542.363.300",
-        "code": "D004739",
-        "parentCategoryId": "Z01.542.363",
-        "name": "England"
+        "id": "E04.210.120.172",
+        "code": "D002763",
+        "parentCategoryId": "E04.210.120",
+        "name": "Cholecystectomy"
     },
     {
-        "id": "C08.618.846",
-        "code": "D012131",
-        "parentCategoryId": "C08.618",
-        "name": "Respiratory Insufficiency"
+        "id": "G07.100.100.160.120.699",
+        "code": "D050177",
+        "parentCategoryId": "G07.100.100.160.120",
+        "name": "Overweight"
     },
     {
-        "id": "D20.215.894.135.500",
-        "code": "D022401",
-        "parentCategoryId": "D20.215.894.135",
-        "name": "Meningococcal Vaccines"
+        "id": "C14.907.253.560.350",
+        "code": "D002537",
+        "parentCategoryId": "C14.907.253.560",
+        "name": "Intracranial Arteriosclerosis"
     },
     {
-        "id": "C13.703.844",
-        "code": "D011644",
-        "parentCategoryId": "C13.703",
-        "name": "Puerperal Disorders"
+        "id": "M01.060.057",
+        "code": "D000293",
+        "parentCategoryId": "M01.060",
+        "name": "Adolescent"
     },
     {
-        "id": "M01.643.630",
-        "code": "D010045",
-        "parentCategoryId": "M01.643",
-        "name": "Outpatients"
+        "id": "A01.923.176.519",
+        "code": "D008161",
+        "parentCategoryId": "A01.923.176",
+        "name": "Lumbosacral Region"
     },
     {
-        "id": "C01.252.847.840.744",
-        "code": "D013587",
-        "parentCategoryId": "C01.252.847.840",
-        "name": "Syphilis"
+        "id": "E04.210.078",
+        "code": "D001062",
+        "parentCategoryId": "E04.210",
+        "name": "Appendectomy"
     },
     {
-        "id": "C19",
-        "code": "D004700",
-        "parentCategoryId": -1,
-        "name": "Endocrine System Diseases"
+        "id": "D20.215.894.691.263",
+        "code": "D004168",
+        "parentCategoryId": "D20.215.894.691",
+        "name": "Diphtheria Toxoid"
     },
     {
-        "id": "C10.668.829.300",
-        "code": "D003929",
-        "parentCategoryId": "C10.668.829",
-        "name": "Diabetic Neuropathies"
+        "id": "C23.888.592.742",
+        "code": "D012640",
+        "parentCategoryId": "C23.888.592",
+        "name": "Seizures"
+    },
+    {
+        "id": "C23.550.891",
+        "code": "D014456",
+        "parentCategoryId": "C23.550",
+        "name": "Ulcer"
+    },
+    {
+        "id": "C23.550.717.427",
+        "code": "D005734",
+        "parentCategoryId": "C23.550.717",
+        "name": "Gangrene"
+    },
+    {
+        "id": "C13.351.968.419.780.750",
+        "code": "D051436",
+        "parentCategoryId": "C13.351.968.419.780",
+        "name": "Renal Insufficiency, Chronic"
+    },
+    {
+        "id": "E05.200.124.100.115",
+        "code": "D001806",
+        "parentCategoryId": "E05.200.124.100",
+        "name": "Blood Urea Nitrogen"
+    },
+    {
+        "id": "N01.824.308.500.862",
+        "code": "D017805",
+        "parentCategoryId": "N01.824.308.500",
+        "name": "Widowhood"
+    },
+    {
+        "id": "C23.550.073.325",
+        "code": "D005117",
+        "parentCategoryId": "C23.550.073",
+        "name": "Cardiac Complexes, Premature"
     },
     {
         "id": "C23.888.119.565",
@@ -540,28 +168,28 @@
         "name": "Hypothermia"
     },
     {
-        "id": "C14.907.137.126.372",
-        "code": "D002537",
-        "parentCategoryId": "C14.907.137.126",
-        "name": "Intracranial Arteriosclerosis"
+        "id": "E04.580.369",
+        "code": "D007825",
+        "parentCategoryId": "E04.580",
+        "name": "Laryngectomy"
     },
     {
-        "id": "C11.525",
-        "code": "D009798",
-        "parentCategoryId": "C11",
-        "name": "Ocular Hypertension"
+        "id": "E04.525.400",
+        "code": "D007016",
+        "parentCategoryId": "E04.525",
+        "name": "Hypophysectomy"
     },
     {
-        "id": "C23.888.592.612",
-        "code": "D010146",
-        "parentCategoryId": "C23.888.592",
-        "name": "Pain"
+        "id": "E04.525.190.840",
+        "code": "D014207",
+        "parentCategoryId": "E04.525.190",
+        "name": "Trephining"
     },
     {
-        "id": "D09.698.360.041",
-        "code": "D000362",
-        "parentCategoryId": "D09.698.360",
-        "name": "Agar"
+        "id": "E04.210.457.430",
+        "code": "D015390",
+        "parentCategoryId": "E04.210.457",
+        "name": "Gastric Bypass"
     },
     {
         "id": "M01.686.508.400",
@@ -570,10 +198,736 @@
         "name": "European Continental Ancestry Group"
     },
     {
-        "id": "C04.850.908.416.750",
+        "id": "G07.203.650.353.400",
+        "code": "D005215",
+        "parentCategoryId": "G07.203.650.353",
+        "name": "Fasting"
+    },
+    {
+        "id": "C13.351.500.711.281.859",
+        "code": "D013587",
+        "parentCategoryId": "C13.351.500.711.281",
+        "name": "Syphilis"
+    },
+    {
+        "id": "E01.370.384.730",
+        "code": "D011877",
+        "parentCategoryId": "E01.370.384",
+        "name": "Radionuclide Imaging"
+    },
+    {
+        "id": "C04.557.665.560",
+        "code": "D009506",
+        "parentCategoryId": "C04.557.665",
+        "name": "Nevus"
+    },
+    {
+        "id": "M01.060.116.100.080",
+        "code": "D000369",
+        "parentCategoryId": "M01.060.116.100",
+        "name": "Aged, 80 and over"
+    },
+    {
+        "id": "A01.923.047",
+        "code": "D000005",
+        "parentCategoryId": "A01.923",
+        "name": "Abdomen"
+    },
+    {
+        "id": "A01.923.047.025",
+        "code": "D034841",
+        "parentCategoryId": "A01.923.047",
+        "name": "Abdominal Cavity"
+    },
+    {
+        "id": "C08.730.969",
+        "code": "D014917",
+        "parentCategoryId": "C08.730",
+        "name": "Whooping Cough"
+    },
+    {
+        "id": "E04.520.050",
+        "code": "D000028",
+        "parentCategoryId": "E04.520",
+        "name": "Abortion, Induced"
+    },
+    {
+        "id": "D06.472.334.851.968.984",
+        "code": "D013739",
+        "parentCategoryId": "D06.472.334.851.968",
+        "name": "Testosterone"
+    },
+    {
+        "id": "A15.145.693",
+        "code": "D010949",
+        "parentCategoryId": "A15.145",
+        "name": "Plasma"
+    },
+    {
+        "id": "A01.923.047.365",
+        "code": "D006119",
+        "parentCategoryId": "A01.923.047",
+        "name": "Groin"
+    },
+    {
+        "id": "Z01.542.363.766",
+        "code": "D012606",
+        "parentCategoryId": "Z01.542.363",
+        "name": "Scotland"
+    },
+    {
+        "id": "D23.050",
+        "code": "D000941",
+        "parentCategoryId": "D23",
+        "name": "Antigens"
+    },
+    {
+        "id": "C14.280",
+        "code": "D006331",
+        "parentCategoryId": "C14",
+        "name": "Heart Diseases"
+    },
+    {
+        "id": "C13.703.039.093",
+        "code": "D000027",
+        "parentCategoryId": "C13.703.039",
+        "name": "Abortion, Incomplete"
+    },
+    {
+        "id": "E04.270.694",
+        "code": "D016105",
+        "parentCategoryId": "E04.270",
+        "name": "Parathyroidectomy"
+    },
+    {
+        "id": "A15.145.846",
+        "code": "D044967",
+        "parentCategoryId": "A15.145",
+        "name": "Serum"
+    },
+    {
+        "id": "M01.643.630",
+        "code": "D010045",
+        "parentCategoryId": "M01.643",
+        "name": "Outpatients"
+    },
+    {
+        "id": "E04.950.774.400",
+        "code": "D016030",
+        "parentCategoryId": "E04.950.774",
+        "name": "Kidney Transplantation"
+    },
+    {
+        "id": "E02.331.200.500",
+        "code": "D058406",
+        "parentCategoryId": "E02.331.200",
+        "name": "Cardiac Resynchronization Therapy"
+    },
+    {
+        "id": "E05.581",
+        "code": "D008722",
+        "parentCategoryId": "E05",
+        "name": "Methods"
+    },
+    {
+        "id": "C17.800.893.592.450",
+        "code": "D016523",
+        "parentCategoryId": "C17.800.893.592",
+        "name": "Foot Ulcer"
+    },
+    {
+        "id": "M01.060.116.630",
+        "code": "D008875",
+        "parentCategoryId": "M01.060.116",
+        "name": "Middle Aged"
+    },
+    {
+        "id": "C14.280.383",
+        "code": "D006323",
+        "parentCategoryId": "C14.280",
+        "name": "Heart Arrest"
+    },
+    {
+        "id": "D20.215.894.135.500",
+        "code": "D022401",
+        "parentCategoryId": "D20.215.894.135",
+        "name": "Meningococcal Vaccines"
+    },
+    {
+        "id": "E05.301.250",
+        "code": "D004572",
+        "parentCategoryId": "E05.301",
+        "name": "Electrolysis"
+    },
+    {
+        "id": "C02.782.815",
+        "code": "D012192",
+        "parentCategoryId": "C02.782",
+        "name": "Retroviridae Infections"
+    },
+    {
+        "id": "J01.937.285.100",
+        "code": "D000401",
+        "parentCategoryId": "J01.937.285",
+        "name": "Aircraft"
+    },
+    {
+        "id": "M01.975",
+        "code": "D014930",
+        "parentCategoryId": "M01",
+        "name": "Women"
+    },
+    {
+        "id": "C11.525",
+        "code": "D009798",
+        "parentCategoryId": "C11",
+        "name": "Ocular Hypertension"
+    },
+    {
+        "id": "A15.145",
+        "code": "D001769",
+        "parentCategoryId": "A15",
+        "name": "Blood"
+    },
+    {
+        "id": "A01.378.610.500",
+        "code": "D007866",
+        "parentCategoryId": "A01.378.610",
+        "name": "Leg"
+    },
+    {
+        "id": "C13.703",
+        "code": "D011248",
+        "parentCategoryId": "C13",
+        "name": "Pregnancy Complications"
+    },
+    {
+        "id": "C08.730.382.380",
+        "code": "D007877",
+        "parentCategoryId": "C08.730.382",
+        "name": "Legionnaires' Disease"
+    },
+    {
+        "id": "Z01.542.883",
+        "code": "D013557",
+        "parentCategoryId": "Z01.542",
+        "name": "Switzerland"
+    },
+    {
+        "id": "E04.199",
+        "code": "D020878",
+        "parentCategoryId": "E04",
+        "name": "Device Removal"
+    },
+    {
+        "id": "C14.907.489.815",
+        "code": "D058437",
+        "parentCategoryId": "C14.907.489",
+        "name": "Hypertensive Retinopathy"
+    },
+    {
+        "id": "C14.907.585.250.260",
+        "code": "D003324",
+        "parentCategoryId": "C14.907.585.250",
+        "name": "Coronary Artery Disease"
+    },
+    {
+        "id": "Z01.542.489",
+        "code": "D007558",
+        "parentCategoryId": "Z01.542",
+        "name": "Italy"
+    },
+    {
+        "id": "E04.950.300.680",
+        "code": "D010052",
+        "parentCategoryId": "E04.950.300",
+        "name": "Ovariectomy"
+    },
+    {
+        "id": "G07.100.100.160.120.699.500",
+        "code": "D009765",
+        "parentCategoryId": "G07.100.100.160.120.699",
+        "name": "Obesity"
+    },
+    {
+        "id": "E04.237",
+        "code": "D004322",
+        "parentCategoryId": "E04",
+        "name": "Drainage"
+    },
+    {
+        "id": "Z01.542.363.914",
+        "code": "D014852",
+        "parentCategoryId": "Z01.542.363",
+        "name": "Wales"
+    },
+    {
+        "id": "G11.561.790.444",
+        "code": "D010146",
+        "parentCategoryId": "G11.561.790",
+        "name": "Pain"
+    },
+    {
+        "id": "A01.923.761.800.650",
+        "code": "D035422",
+        "parentCategoryId": "A01.923.761.800",
+        "name": "Pleural Cavity"
+    },
+    {
+        "id": "A08.186.211",
+        "code": "D001921",
+        "parentCategoryId": "A08.186",
+        "name": "Brain"
+    },
+    {
+        "id": "A03.620",
+        "code": "D008099",
+        "parentCategoryId": "A03",
+        "name": "Liver"
+    },
+    {
+        "id": "M01.643.470",
+        "code": "D007297",
+        "parentCategoryId": "M01.643",
+        "name": "Inpatients"
+    },
+    {
+        "id": "E04.210.626",
+        "code": "D007581",
+        "parentCategoryId": "E04.210",
+        "name": "Jejunoileal Bypass"
+    },
+    {
+        "id": "A01.378.610",
+        "code": "D035002",
+        "parentCategoryId": "A01.378",
+        "name": "Lower Extremity"
+    },
+    {
+        "id": "A01.923",
+        "code": "D060726",
+        "parentCategoryId": "A01",
+        "name": "Torso"
+    },
+    {
+        "id": "C20.683.515.800",
+        "code": "D055501",
+        "parentCategoryId": "C20.683.515",
+        "name": "Macrophage Activation Syndrome"
+    },
+    {
+        "id": "C23.888.592.608.500",
+        "code": "D009120",
+        "parentCategoryId": "C23.888.592.608",
+        "name": "Muscle Cramp"
+    },
+    {
+        "id": "A12.459",
+        "code": "D005243",
+        "parentCategoryId": "A12",
+        "name": "Feces"
+    },
+    {
+        "id": "D09.698.360.041",
+        "code": "D000362",
+        "parentCategoryId": "D09.698.360",
+        "name": "Agar"
+    },
+    {
+        "id": "C19.246.099.875",
+        "code": "D003928",
+        "parentCategoryId": "C19.246.099",
+        "name": "Diabetic Nephropathies"
+    },
+    {
+        "id": "M01.686.508.200",
+        "code": "D044466",
+        "parentCategoryId": "M01.686.508",
+        "name": "Asian Continental Ancestry Group"
+    },
+    {
+        "id": "H02.403.740.500",
+        "code": "D009683",
+        "parentCategoryId": "H02.403.740",
+        "name": "Nuclear Medicine"
+    },
+    {
+        "id": "C13.703.039",
+        "code": "D000022",
+        "parentCategoryId": "C13.703",
+        "name": "Abortion, Spontaneous"
+    },
+    {
+        "id": "A01.923.047.025.600.451",
+        "code": "D008643",
+        "parentCategoryId": "A01.923.047.025.600",
+        "name": "Mesentery"
+    },
+    {
+        "id": "E04.950.774.435",
+        "code": "D009392",
+        "parentCategoryId": "E04.950.774",
+        "name": "Nephrectomy"
+    },
+    {
+        "id": "D01.552.544.843",
+        "code": "D013667",
+        "parentCategoryId": "D01.552.544",
+        "name": "Technetium"
+    },
+    {
+        "id": "E04.520.252",
+        "code": "D036861",
+        "parentCategoryId": "E04.520",
+        "name": "Delivery, Obstetric"
+    },
+    {
+        "id": "C13.703.395.124",
+        "code": "D004461",
+        "parentCategoryId": "C13.703.395",
+        "name": "Eclampsia"
+    },
+    {
+        "id": "C14.907.489",
+        "code": "D006973",
+        "parentCategoryId": "C14.907",
+        "name": "Hypertension"
+    },
+    {
+        "id": "C14.907.489.631.485",
+        "code": "D006978",
+        "parentCategoryId": "C14.907.489.631",
+        "name": "Hypertension, Renovascular"
+    },
+    {
+        "id": "C23.888.592.612.233.500.150",
+        "code": "D000789",
+        "parentCategoryId": "C23.888.592.612.233.500",
+        "name": "Angina, Unstable"
+    },
+    {
+        "id": "A01.598",
+        "code": "D009333",
+        "parentCategoryId": "A01",
+        "name": "Neck"
+    },
+    {
+        "id": "A01.378.800.075",
+        "code": "D001132",
+        "parentCategoryId": "A01.378.800",
+        "name": "Arm"
+    },
+    {
+        "id": "G07.345.249.314.120.650",
+        "code": "D056865",
+        "parentCategoryId": "G07.345.249.314.120",
+        "name": "Ideal Body Weight"
+    },
+    {
+        "id": "E02.815",
+        "code": "D011878",
+        "parentCategoryId": "E02",
+        "name": "Radiotherapy"
+    },
+    {
+        "id": "A15.382.520.604.700",
+        "code": "D013154",
+        "parentCategoryId": "A15.382.520.604",
+        "name": "Spleen"
+    },
+    {
+        "id": "M01.060.116.100",
+        "code": "D000368",
+        "parentCategoryId": "M01.060.116",
+        "name": "Aged"
+    },
+    {
+        "id": "C13.351.968.419",
+        "code": "D007674",
+        "parentCategoryId": "C13.351.968",
+        "name": "Kidney Diseases"
+    },
+    {
+        "id": "C23.888.592.608.750",
+        "code": "D013035",
+        "parentCategoryId": "C23.888.592.608",
+        "name": "Spasm"
+    },
+    {
+        "id": "C08.618.846",
+        "code": "D012131",
+        "parentCategoryId": "C08.618",
+        "name": "Respiratory Insufficiency"
+    },
+    {
+        "id": "C04.557.665.560.615",
+        "code": "D009508",
+        "parentCategoryId": "C04.557.665.560",
+        "name": "Nevus, Pigmented"
+    },
+    {
+        "id": "E04.210.556",
+        "code": "D006498",
+        "parentCategoryId": "E04.210",
+        "name": "Hepatectomy"
+    },
+    {
+        "id": "A01.923.761",
+        "code": "D013909",
+        "parentCategoryId": "A01.923",
+        "name": "Thorax"
+    },
+    {
+        "id": "Z01.542.315",
+        "code": "D005858",
+        "parentCategoryId": "Z01.542",
+        "name": "Germany"
+    },
+    {
+        "id": "C23.550.288",
+        "code": "D004194",
+        "parentCategoryId": "C23.550",
+        "name": "Disease"
+    },
+    {
+        "id": "Z01.542.363.300",
+        "code": "D004739",
+        "parentCategoryId": "Z01.542.363",
+        "name": "England"
+    },
+    {
+        "id": "C19",
+        "code": "D004700",
+        "parentCategoryId": "",
+        "name": "Endocrine System Diseases"
+    },
+    {
+        "id": "N04.590.233.727.210.125",
+        "code": "D010351",
+        "parentCategoryId": "N04.590.233.727.210",
+        "name": "Patient Discharge"
+    },
+    {
+        "id": "C23.888.119.344",
+        "code": "D005334",
+        "parentCategoryId": "C23.888.119",
+        "name": "Fever"
+    },
+    {
+        "id": "C23.550.073.845",
+        "code": "D013610",
+        "parentCategoryId": "C23.550.073",
+        "name": "Tachycardia"
+    },
+    {
+        "id": "E04.210.752",
+        "code": "D010180",
+        "parentCategoryId": "E04.210",
+        "name": "Pancreatectomy"
+    },
+    {
+        "id": "C23.550.073.198",
+        "code": "D001281",
+        "parentCategoryId": "C23.550.073",
+        "name": "Atrial Fibrillation"
+    },
+    {
+        "id": "C14.907.489.480",
+        "code": "D046110",
+        "parentCategoryId": "C14.907.489",
+        "name": "Hypertension, Pregnancy-Induced"
+    },
+    {
+        "id": "C13.703.844",
+        "code": "D011644",
+        "parentCategoryId": "C13.703",
+        "name": "Puerperal Disorders"
+    },
+    {
+        "id": "C10.228.140.631.500",
+        "code": "D020343",
+        "parentCategoryId": "C10.228.140.631",
+        "name": "Hypertensive Encephalopathy"
+    },
+    {
+        "id": "C08.730.610",
+        "code": "D011014",
+        "parentCategoryId": "C08.730",
+        "name": "Pneumonia"
+    },
+    {
+        "id": "F03.615.400.350",
+        "code": "D015140",
+        "parentCategoryId": "F03.615.400",
+        "name": "Dementia, Vascular"
+    },
+    {
+        "id": "A01.923.761.800.500",
+        "code": "D008482",
+        "parentCategoryId": "A01.923.761.800",
+        "name": "Mediastinum"
+    },
+    {
+        "id": "D01.268.150.150",
+        "code": "D002606",
+        "parentCategoryId": "D01.268.150",
+        "name": "Charcoal"
+    },
+    {
+        "id": "D09.698",
+        "code": "D011134",
+        "parentCategoryId": "D09",
+        "name": "Polysaccharides"
+    },
+    {
+        "id": "C06.552.697.160",
+        "code": "D006528",
+        "parentCategoryId": "C06.552.697",
+        "name": "Carcinoma, Hepatocellular"
+    },
+    {
+        "id": "E04.555.100",
+        "code": "D001174",
+        "parentCategoryId": "E04.555",
+        "name": "Arthrodesis"
+    },
+    {
+        "id": "E04.936.450.475",
+        "code": "D016027",
+        "parentCategoryId": "E04.936.450",
+        "name": "Heart Transplantation"
+    },
+    {
+        "id": "C19.246.099",
+        "code": "D048909",
+        "parentCategoryId": "C19.246",
+        "name": "Diabetes Complications"
+    },
+    {
+        "id": "C19.246.099.937",
+        "code": "D003929",
+        "parentCategoryId": "C19.246.099",
+        "name": "Diabetic Neuropathies"
+    },
+    {
+        "id": "E04.936.494",
+        "code": "D012092",
+        "parentCategoryId": "E04.936",
+        "name": "Replantation"
+    },
+    {
+        "id": "A16.378.200",
+        "code": "D005312",
+        "parentCategoryId": "A16.378",
+        "name": "Fetal Blood"
+    },
+    {
+        "id": "C06.552.494",
+        "code": "D006975",
+        "parentCategoryId": "C06.552",
+        "name": "Hypertension, Portal"
+    },
+    {
+        "id": "C14.907.514",
+        "code": "D007022",
+        "parentCategoryId": "C14.907",
+        "name": "Hypotension"
+    },
+    {
+        "id": "C13.351.968.419.780.750.500",
+        "code": "D007676",
+        "parentCategoryId": "C13.351.968.419.780.750",
+        "name": "Kidney Failure, Chronic"
+    },
+    {
+        "id": "C23.550.073.300",
+        "code": "D001919",
+        "parentCategoryId": "C23.550.073",
+        "name": "Bradycardia"
+    },
+    {
+        "id": "E04.950.300.399",
+        "code": "D007044",
+        "parentCategoryId": "E04.950.300",
+        "name": "Hysterectomy"
+    },
+    {
+        "id": "D12.776.124.486.157",
+        "code": "D002097",
+        "parentCategoryId": "D12.776.124.486",
+        "name": "C-Reactive Protein"
+    },
+    {
+        "id": "C23.888.852.079",
+        "code": "D000860",
+        "parentCategoryId": "C23.888.852",
+        "name": "Hypoxia"
+    },
+    {
+        "id": "F01.700.750.300",
+        "code": "D006212",
+        "parentCategoryId": "F01.700.750",
+        "name": "Hallucinations"
+    },
+    {
+        "id": "A12.207.270.210",
+        "code": "D002555",
+        "parentCategoryId": "A12.207.270",
+        "name": "Cerebrospinal Fluid"
+    },
+    {
+        "id": "E02.815.150",
+        "code": "D001918",
+        "parentCategoryId": "E02.815",
+        "name": "Brachytherapy"
+    },
+    {
+        "id": "C23.550.470",
+        "code": "D007249",
+        "parentCategoryId": "C23.550",
+        "name": "Inflammation"
+    },
+    {
+        "id": "A12.200.808",
+        "code": "D013183",
+        "parentCategoryId": "A12.200",
+        "name": "Sputum"
+    },
+    {
+        "id": "E03.155.086.231",
+        "code": "D000772",
+        "parentCategoryId": "E03.155.086",
+        "name": "Anesthesia, Local"
+    },
+    {
+        "id": "C13.703.720.949.416.875",
         "code": "D006828",
-        "parentCategoryId": "C04.850.908.416",
+        "parentCategoryId": "C13.703.720.949.416",
         "name": "Hydatidiform Mole"
+    },
+    {
+        "id": "E04.928.220.605",
+        "code": "D010492",
+        "parentCategoryId": "E04.928.220",
+        "name": "Pericardiectomy"
+    },
+    {
+        "id": "C19.246",
+        "code": "D003920",
+        "parentCategoryId": "C19",
+        "name": "Diabetes Mellitus"
+    },
+    {
+        "id": "C14.907.137.126",
+        "code": "D001161",
+        "parentCategoryId": "C14.907.137",
+        "name": "Arteriosclerosis"
+    },
+    {
+        "id": "C13.703.395.249",
+        "code": "D011225",
+        "parentCategoryId": "C13.703.395",
+        "name": "Pre-Eclampsia"
     },
     {
         "id": "C14.907.137.126.307",
@@ -582,10 +936,46 @@
         "name": "Atherosclerosis"
     },
     {
-        "id": "C01.539.739.969",
-        "code": "D014917",
-        "parentCategoryId": "C01.539.739",
-        "name": "Whooping Cough"
+        "id": "F01.145.126.200",
+        "code": "D003702",
+        "parentCategoryId": "F01.145.126",
+        "name": "Delusions"
+    },
+    {
+        "id": "C23.888.531",
+        "code": "D007383",
+        "parentCategoryId": "C23.888",
+        "name": "Intermittent Claudication"
+    },
+    {
+        "id": "D20.215.894",
+        "code": "D014612",
+        "parentCategoryId": "D20.215",
+        "name": "Vaccines"
+    },
+    {
+        "id": "E04.502.250",
+        "code": "D004724",
+        "parentCategoryId": "E04.502",
+        "name": "Endoscopy"
+    },
+    {
+        "id": "E05.284",
+        "code": "D004106",
+        "parentCategoryId": "E05",
+        "name": "Dilatation"
+    },
+    {
+        "id": "C17.800.893.592",
+        "code": "D007871",
+        "parentCategoryId": "C17.800.893",
+        "name": "Leg Ulcer"
+    },
+    {
+        "id": "E04.936.580.490",
+        "code": "D016031",
+        "parentCategoryId": "E04.936.580",
+        "name": "Liver Transplantation"
     },
     {
         "id": "D20.215.894.135",
